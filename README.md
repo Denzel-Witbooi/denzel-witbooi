@@ -13,7 +13,7 @@ Hello there! I'm Denzel, a junior web developer with a passion for coding and a 
 
 Feel free to reach out, connect, or collaborate on exciting projects:
 
-- 📧 Email: dlwitbooi@outlook.com
+- 📧 Email: dlwitbooi@outlook.com | dwitbooi28@gmail.com
 - 💼 LinkedIn: [Denzel Witbooi](https://www.linkedin.com/in/denzel-witbooi)
 - 🌐 Personal Website/Blog: [Data Analysis projects]( https://denzel-witbooi.github.io/denzelwitbooi.github.io/ )
 
