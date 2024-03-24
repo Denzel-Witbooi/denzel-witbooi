@@ -1,5 +1,12 @@
 # 💫 About Me:
-I'm currently learning how to design websites on wordpress.<br>And more on clean architecture in C#.<br>Did you know that statistically speaking, you are <br>likely to share your birthday with at least 9 million other people<br>around the world?<br>It's a fascinating reminder of the vastness and <br>diversity of our global population!
+Hello there! I'm Denzel, a junior web developer with a passion for coding and a curiosity for data analysis. I've dipped my toes in various programming languages and technologies, but I'm particularly focused on C#. I believe in the power of technology to transform ideas into reality.
+
+## 🚀 Quick Facts
+
+- 🔭 I'm currently working on improving my c# and web design skills
+- 🌱 Learning and experimenting with Blazor and Blazor WebAssembly
+- 📊 Data enthusiast: I love exploring data and uncovering hidden insights
+- 🎯 Pursuing a career in web development and data analysis
 
 
 ## 🌐 Socials:
