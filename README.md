@@ -1,5 +1,5 @@
 # 💫 About Me:
-I currently learning how to design websites on wordpress.<br>And more on clean architecture in C#.<br>Did you know that statistically speaking, you are <br>likely to share your birthday with at least 9 million other people<br>around the world?<br>It's a fascinating reminder of the vastness and <br>diversity of our global population!
+I'm currently learning how to design websites on wordpress.<br>And more on clean architecture in C#.<br>Did you know that statistically speaking, you are <br>likely to share your birthday with at least 9 million other people<br>around the world?<br>It's a fascinating reminder of the vastness and <br>diversity of our global population!
 
 
 ## 🌐 Socials:
