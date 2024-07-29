@@ -1,11 +1,11 @@
 # 💫 About Me:
-Hello there! I'm Denzel, a junior web developer with a passion for coding and a curiosity for data analysis. I've dipped my toes in various programming languages and technologies, but I'm particularly focused on C#. I believe in the power of technology to transform ideas into reality.
+Hello there! I'm Denzel, a junior web developer with a passion for coding and for data analysis. I have experience in various programming languages and technologies, but I'm particularly focused on C# and analyzing various datasets to improve my understanding of manipulating and visualising data.
 
 ## 🚀 Quick Facts
 
 - 🔭 I'm currently working on improving my c# and web design skills
 - 🌱 Learning and experimenting with Blazor and Blazor WebAssembly
-- 📊 Data enthusiast: I love exploring data and uncovering hidden insights
+- 📊 Data enthusiast: I love exploring data and uncovering hidden insights and visualising
 - 🎯 Pursuing a career in web development and data analysis
 
 
