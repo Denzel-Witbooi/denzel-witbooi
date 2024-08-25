@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Denzel, a junior web developer with a passion for coding and for data analysis. I have experience in various programming languages and technologies, but I'm particularly focused on C# and analyzing various datasets to improve my understanding of manipulating and visualising data.
+Hello there! I'm Denzel, a junior software | web developer with a passion for coding and for data analysis. I have experience in various programming languages and technologies, but I'm particularly focused on C# and analyzing various datasets to improve my understanding of manipulating and visualising data.
 
 ## 🚀 Quick Facts
 
