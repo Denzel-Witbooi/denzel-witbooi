@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hello there! I'm Denzel, a junior software | web developer with a passion for coding and for data analysis. I have experience in various programming languages and technologies, but I'm particularly focused on C# and analyzing various datasets to improve my understanding of manipulating and visualising data.
+Hello there! I'm Denzel, a junior web and software developer based in South Africa, passionate about creating digital solutions that solve real-world problems. With a background in IT Software Development, I'm constantly learning and expanding my skills.
+My journey spans from various school projects to real-world implementations, including web design and development as a digital media assistant at the Coega Development Corporation.
 
 ## 🚀 Quick Facts
 
