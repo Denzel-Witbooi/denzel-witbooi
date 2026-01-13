@@ -4,10 +4,9 @@ My journey spans from various school projects to real-world implementations, inc
 
 ## 🚀 Quick Facts
 
-- 🔭 I'm currently working on improving my c# and web design skills
+- 🔭 I'm currently working on improving my C# and web design skills
 - 🌱 Learning and experimenting with Blazor and Blazor WebAssembly
 - 📊 Data enthusiast: I love exploring data and uncovering hidden insights and visualising
-- 🎯 Pursuing a career in web development and data analysis
 
 
 ## 🌐 Socials:
