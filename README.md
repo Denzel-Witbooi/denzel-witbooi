@@ -1,12 +1,12 @@
 # 💫 About Me:
-Hello there! I'm Denzel, a junior web and software developer based in South Africa, passionate about creating digital solutions that solve real-world problems. With a background in IT Software Development, I'm constantly learning and expanding my skills.
+Hello there! I'm Denzel, a junior software developer based in South Africa, passionate about creating digital solutions that solve real-world problems. With a background in IT Software Development, I'm constantly learning and expanding my skills.
 My journey spans from various school projects to real-world implementations, including web design and development as a digital media assistant at the Coega Development Corporation.
 
 ## 🚀 Quick Facts
 
 - 🔭 I'm currently working on improving my C# and web design skills
 - 🌱 Learning and experimenting with Blazor and Blazor WebAssembly
-- 📊 Data enthusiast: I love exploring data and uncovering hidden insights and visualising
+- 📊 Data enthusiast: I love exploring data, uncovering hidden insights, and visualising
 
 
 ## 🌐 Socials:
