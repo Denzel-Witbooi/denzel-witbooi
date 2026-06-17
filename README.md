@@ -10,7 +10,7 @@ My journey spans from various school projects to real-world implementations, inc
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/denzel-witbooi)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denzel-witbooi)  
 
 # 💻 Tech Stack:
 
