@@ -1,6 +1,5 @@
 # 💫 About Me:
-Hello there! I'm Denzel, a junior software developer based in South Africa, passionate about creating digital solutions that solve real-world problems. With a background in IT Software Development, I'm constantly learning and expanding my skills.
-My journey spans from various school projects to real-world implementations, including web design and development as a digital media assistant at the Coega Development Corporation.
+A developer focused on building functional, accessible, and well-designed digital experiences, with professional experience in web development, interface design, and workflow automation.
 
 ## 🚀 Quick Facts
 
